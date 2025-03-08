@@ -117,3 +117,6 @@ If you'd like to contribute to this project, feel free to fork the repository, c
 * Speech Synthesis API – Used for the text-to-speech functionality.
 * Poppins Font – The font used in this project.
 
+## Video of web allpication
+
+uploading video for showing how the appliction works. 
